@@ -1,0 +1,15 @@
+[package]
+name = "derive_custom_enum_traits"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+custom_enum_traits = "0.2.0"
+proc-macro2 = "1.0.36"
+quote = "1.0.15"
+syn = "1.0.86"
+
+[lib]
+proc-macro = true
