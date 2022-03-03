@@ -2,6 +2,8 @@
 name = "derive_custom_enum_traits"
 version = "0.1.0"
 edition = "2018"
+description = "Derive macros for dealing with enums. This adds derive macros to the `custom_enum_traits` package."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
